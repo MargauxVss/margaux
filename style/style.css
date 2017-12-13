@@ -1,6 +1,30 @@
 
 body
 	{
-		background: url(../im/fond_tatoo.jpg);
+		background-color: darkslategrey;
+		/*background: url(../im/fond_tatoo.jpg);*/
 		background-size: all auto;
 	}
+
+
+/* footer */
+
+.site
+{
+	margin-left: 80%;
+}
+
+.icon
+{
+
+	width: 25px;
+	height: 25px;
+	float: left ;
+}
+
+.text
+{
+	color : #fff;
+	margin-left: 50px;
+}
+
