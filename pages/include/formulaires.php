@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Connection/Inscription</title>
-</head>
-<body>
 
 <!-- formulaire d'inscription -->
 
@@ -46,6 +39,3 @@
         <input type="submit" name="envoyer" value="submit"/>
     </div>
 </form>
-
-</body>
-</html>

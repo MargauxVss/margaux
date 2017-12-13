@@ -4,19 +4,19 @@
 <footer>
   <div id=" follow">
     <div class="site">
-      <img class="icon" src="../images/fb.png" alt="icone facebook"/>
+      <img class="icon" src="../im/fb.png" alt="icone facebook"/>
       <p class="text"> Notre Facebook </p>
     </div>
     <div class="site">
-      <img class="icon" src="../images/twit.png" alt="icone twitter"/>
+      <img class="icon" src="../im/twit.png" alt="icone twitter"/>
       <p class="text"> Notre twitter </p>
     </div>
     <div class="site">
-      <img class="icon" src="../images/pint.png" alt="icone pinterest"/>
+      <img class="icon" src="../im/pint.png" alt="icone pinterest"/>
       <p class="text"> Notre Pinterest </p>
     </div>
     <div class="site">
-      <img class="icon" src="../images/insta.png" alt="icone instagram"/>
+      <img class="icon" src="../im/insta.png" alt="icone instagram"/>
       <p class="text"> Notre Instagram </p>
     </div>
 

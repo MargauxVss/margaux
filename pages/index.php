@@ -8,9 +8,12 @@
   <script src="../js/script.js"></script>
 </head>
 <body>
+lourd
+<?php include('./include/menu.php'); ?>
 
+<?php include('./include/formulaires.php'); ?>
 
-
+<?php include('./include/footer.php'); ?>
 
 
 </body>
