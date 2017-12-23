@@ -2,9 +2,10 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8"/>
-  <title>Accueil</title>
+  <title>Bijoux</title>
   <link rel="stylesheet" href="../style/reset.css">
-  <link rel="stylesheet" href="../style/style.css">
+  <link rel="stylesheet" href="../css/style.css">
+  <script src="../js/script.js"></script>
 </head>
 <body>
 
@@ -12,13 +13,9 @@
 
   <?php include('./include/formulaires.php'); ?>
 
-  <div id="page">
-  			<img id="imageprin" src="../im/peircing.png" alt=" image principale" />
-  </div>
-
 
   <?php include('./include/footer.php'); ?>
 
-  <script src="../js/script.js"></script>
+
 </body>
 </html>

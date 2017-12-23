@@ -1,6 +1,6 @@
 
 <!-- formulaire d'inscription -->
-
+<h2> Inscription </h2>
 <form action="inscription.php" method="post">
     <div>
         <label>pseudo :</label>
@@ -21,7 +21,7 @@
 
 
 <!-- formulaire de connection -->
-
+<h2> Connexion </h2>
 <form action="connection.php" method="post">
     <div>
         <label>pseudo :</label>
