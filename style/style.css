@@ -28,14 +28,8 @@ body
 	margin-left: 50px;
 }
 
-
-ul#menu
+#page img
 {
-	list-style-type: none;
-}
-
-ul#menu li
-{
-	display: inline;
-	padding: 0 0.5em;
+	padding-left: auto;
+	padding-right: auto;
 }

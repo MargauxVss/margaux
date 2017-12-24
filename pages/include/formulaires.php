@@ -1,7 +1,7 @@
 
 <!-- formulaire d'inscription -->
-<h2> Inscription </h2>
-<form action="inscription.php" method="post">
+<form action="inscription.php" method="post" style="border: 1px solid black; width: 150px;">
+    <h2> Inscription </h2>
     <div>
         <label>pseudo :</label>
         <input type="text" name="pseudo" />
@@ -19,10 +19,11 @@
     </div>
 </form>
 
+<br/>
 
 <!-- formulaire de connection -->
-<h2> Connexion </h2>
-<form action="connection.php" method="post">
+<form action="connection.php" method="post" style="border: 1px solid black; width: 150px; ">
+    <h2> Connexion </h2>
     <div>
         <label>pseudo :</label>
         <input type="text" name="pseudo" />
