@@ -19,6 +19,16 @@
   			<img id="imageprin" src="../im/peircing.png" alt=" image principale" />
   </div>
 
+  <div id="textindex" style="width: 800px; text-align: center; margin-top: 50px;">
+      <h2 style="text-decoration: underline overline #FF3028;">
+        Welcome
+      </h2>
+
+      <p style="font-size: medium;">
+        L' équipe de Pited Skin, c'est à dire Kévin, Clélia et Margaux sont installés depuis Septembre 2005 dans l'hyper centre de Bordeaux après avoir acquis deux ans d'expériences auprès de tatoueurs et pierceurs reconnus à Barcelone,
+        l'équipe a préférée revenir dans sa ville natale pour ouvrir à l' année leur studio de tatouage et de piercing.
+      </p>
+  </div>
 
   <?php include('./include/footer.php'); ?>
 

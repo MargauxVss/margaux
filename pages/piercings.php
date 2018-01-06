@@ -8,6 +8,54 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
   <script type="text/javascript" src="../js/script.js"></script>
+  <style>
+      #tab
+      {
+        width : 500px;
+        font-size: medium;
+        text-align:left;
+        margin-right: auto;
+        margin-left : auto;
+      }
+
+      #tab h2
+      {
+        text-decoration: underline overline #FF3028;
+        padding-top : 50px;
+        text-align :center;
+      }
+
+      table
+      {
+      border: medium solid  #FF3028;
+      border-collapse: collapse;
+      width: 100%;
+      }
+
+      th
+      {
+      font-family: monospace;
+      border: thin solid  #FF3028;
+      width: 50%;
+      padding: 5px;
+      }
+
+      td
+      {
+      font-family: sans-serif;
+      border: thin solid  #FF3028;
+      width: 50%;
+      padding: 5px;
+      text-align: center;
+      background-color: #ffffff;
+      }
+
+      caption
+      {
+      font-family: sans-serif;
+      }
+
+  </style>
 </head>
 <body>
 
@@ -16,93 +64,94 @@
 
     <?php include('./include/formulaires.php'); ?>
 
+  <div id="tab">
+    <h2> Prix </h2>
+    <div>
+        <table id="prix">
+          <tr id="tabtitle">
+              <td> Piercing</td>
+              <td> Prix </td>
+          </tr>
+          <tr>
+              <td>Arcade </td>
+              <td>à partir de 30 euros </td>
+          </tr>
+          <tr>
+              <td> Arcade horizontale</td>
+              <td>à partir de 40 euros </td>
+          </tr>
+          <tr>
+              <td>Bridge </td>
+              <td> à partir de 55 euros</td>
+          </tr>
+          <tr>
+              <td> Conch (fond d'oreille)</td>
+              <td> à partir de 45 euros</td>
+          </tr>
+          <tr>
+              <td> Death( repli cartiliage) </td>
+              <td>à partir de 45 euros </td>
+          </tr>
+          <tr>
+              <td>Filet (langue ou lèvre) </td>
+              <td> à partir de 50 euros</td>
+          </tr>
+          <tr>
+              <td> Hélix (cartilage) </td>
+              <td>à partir de 25 euros </td>
+          </tr>
+          <tr>
+              <td>Langue </td>
+              <td>à partir de 40 euros </td>
+          </tr>
+          <tr>
+              <td> Lèvre (tour de bouche)</td>
+              <td> à partir de 35 euros </td>
+          </tr>
+          <tr>
+              <td> Lobe (oreille) </td>
+              <td> à partir de 10 euros</td>
+          </tr>
+          <tr>
+              <td> Microdermal (+ de 18 ans) </td>
+              <td>à partir de 60 euros </td>
+          </tr>
+          <tr>
+              <td> Nez</td>
+              <td>à partir de 25 euros </td>
+          </tr>
+          <tr>
+              <td> Nombril</td>
+              <td> à partir de 40 euros</td>
+          </tr>
+          <tr>
+              <td> Septum </td>
+              <td> à partir de 50 euros</td>
+          </tr>
+          <tr>
+              <td>Surface </td>
+              <td>à partir de 45 euros </td>
+          </tr>
+          <tr>
+              <td> Téton</td>
+              <td>à partir de 45 euros </td>
+          </tr>
+          <tr>
+              <td> Tragus/ repli cartilage</td>
+              <td> à partir de 30 euros</td>
+          </tr>
+          <tr>
+              <td> Traversée</td>
+              <td>à partir de 50 euros </td>
+          </tr>
+          <tr>
+              <td> Génitaux</td>
+              <td> nous consulter </td>
+          </tr>
+        </table>
 
-  <h2> Prix </h2>
-  <div>
-      <table id="prix">
-        <tr id="tabtitle">
-            <td> Piercing</td>
-            <td> Prix </td>
-        </tr>
-        <tr>
-            <td>Arcade </td>
-            <td>à partir de 30 euros </td>
-        </tr>
-        <tr>
-            <td> Arcade horizontale</td>
-            <td>à partir de 40 euros </td>
-        </tr>
-        <tr>
-            <td>Bridge </td>
-            <td> à partir de 55 euros</td>
-        </tr>
-        <tr>
-            <td> Conch (fond d'oreille)</td>
-            <td> à partir de 45 euros</td>
-        </tr>
-        <tr>
-            <td> Death( repli cartiliage) </td>
-            <td>à partir de 45 euros </td>
-        </tr>
-        <tr>
-            <td>Filet (langue ou lèvre) </td>
-            <td> à partir de 50 euros</td>
-        </tr>
-        <tr>
-            <td> Hélix (cartilage) </td>
-            <td> </td>
-        </tr>
-        <tr>
-            <td>Langue </td>
-            <td>à partir de 40 euros </td>
-        </tr>
-        <tr>
-            <td> Lèvre (tour de bouche)</td>
-            <td> </td>
-        </tr>
-        <tr>
-            <td> Lobe (oreille) </td>
-            <td> à partir de 10 euros</td>
-        </tr>
-        <tr>
-            <td> Microdermal (+ de 18 ans) </td>
-            <td>à partir de 60 euros </td>
-        </tr>
-        <tr>
-            <td> Nez</td>
-            <td>à partir de 25 euros </td>
-        </tr>
-        <tr>
-            <td> Nombril</td>
-            <td> à partir de 40 euros</td>
-        </tr>
-        <tr>
-            <td> Septum </td>
-            <td> à partir de 50 euros</td>
-        </tr>
-        <tr>
-            <td>Surface </td>
-            <td>à partir de 45 euros </td>
-        </tr>
-        <tr>
-            <td> Téton</td>
-            <td>à partir de 45 euros </td>
-        </tr>
-        <tr>
-            <td> Tragus/ repli cartilage</td>
-            <td> à partir de 30 euros</td>
-        </tr>
-        <tr>
-            <td> Traversée</td>
-            <td>à partir de 50 euros </td>
-        </tr>
-        <tr>
-            <td> Génitaux</td>
-            <td> nous consulter </td>
-        </tr>
-      </table>
-
-    <p>Tous nos tarifs sont piercing et bijou compris.</p>
+      <p>Tous nos tarifs sont piercing et bijou compris.</p>
+     </div>
    </div>
 
   <?php include('./include/footer.php'); ?>

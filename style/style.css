@@ -4,6 +4,7 @@ body
 		background-color: darkslategrey;
 		/*background: url(../im/fond_tatoo.jpg);*/
 		background-size: all auto;
+		font-family: "verdana", sans-serif;
 	}
 
 
@@ -22,9 +23,9 @@ body
 	float: left ;
 }
 
-.text
+footer div div p.text
 {
-	color : #fff;
+	color :  	#000000;
 	margin-left: 50px;
 }
 
