@@ -1,0 +1,22 @@
+
+body
+	{
+		text-align: center;
+		background: url('../im/fond_tatoo.jpg') no-repeat;
+		background-position: center;
+		background-size: 100%;
+	}
+
+
+
+header
+{
+	padding-top: 50px;
+	height: 80px;
+	display: flex;
+	justify-content: center;
+	border-bottom: 1px solid black;
+	background: black;
+	background-color:#303030;
+
+}

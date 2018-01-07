@@ -22,7 +22,11 @@
 	</header>
 
 	<div id="presenter">
-		<p>. Vous pouvez dès à présent voir nos dessins. Nous proposons différents choix, allants du plus sombre au plus coloré, autant pour les hommes que pour les femmes. Nos tatoueurs sont disponibles du Mardi au Vendredi de 9h à 17h</p>
+		<p>Vous pouvez dès à présent voir nos dessins. Nous proposons différents choix, allants du plus sombre au plus coloré, autant pour les hommes que pour les femmes. Nos tatoueurs sont disponibles du Mardi au Vendredi de 9h à 17h</p>
+	</div>
+
+	<div id="top">
+		
 	</div>
 
 	<div id="neb">
