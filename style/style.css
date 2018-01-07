@@ -1,0 +1,37 @@
+
+body
+	{
+		background-color: darkslategrey;
+		/*background: url(../im/fond_tatoo.jpg);*/
+		background-size: all auto;
+		font-family: "verdana", sans-serif;
+	}
+
+
+/* footer */
+
+.site
+{
+	margin-left: 80%;
+}
+
+
+.icon
+{
+
+	width: 25px;
+	height: 25px;
+	float: left ;
+}
+
+footer div div p.text
+{
+	color :  	#000000;
+	margin-left: 50px;
+}
+
+#page img
+{
+	padding-left: auto;
+	padding-right: auto;
+}

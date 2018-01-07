@@ -2,24 +2,20 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8"/>
-  <title></title>
-  <link rel="stylesheet" href="../css/reset.css">
-  <link rel="stylesheet" href="../css/style.css">
-  
+  <title>Tatouages</title>
+  <link rel="stylesheet" href="../style/reset.css">
+  <link rel="stylesheet" href="../style/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="../js/script.js"></script>
 </head>
 
 <body>
 
-	<header class="menu">
-			<h1>Pitted Skin</h1>
+  <?php include('./include/menu.php'); ?>
 
-			<ul>
-				<li><a href="Page.bijoux.php">Bijoux</a></li>
-				<li><a href="Page.piercing.php">Piercing</a></li>
-				<li><a href="tattoos.php">Tatouages</a></li>
-				<li><a href="Page.tarifs.php">Tarifs</a></li>
-			</ul>
-	</header>
+  <?php include('./include/formulaires.php'); ?>
+
 
 	<div id="presenter">
 		<p>Vous pouvez dès à présent voir nos dessins. Nous proposons différents choix, allants du plus sombre au plus coloré, autant pour les hommes que pour les femmes. Nos tatoueurs sont disponibles du Mardi au Vendredi de 9h à 17h</p>
@@ -38,15 +34,13 @@
 	</div>
 
 	<div id="rdv">
-		<p>Vous souhaitez prendre un rendez-vous ? N'attendez pas et venez en parler avec nous</p>	
+		<p>Vous souhaitez prendre un rendez-vous ? N'attendez pas et venez en parler avec nous</p>
 	</div>
 
 
 
 
-
-
-	<script src="../js/script.js"></script>
+  <?php include('./include/footer.php'); ?>
 
 </body>
 

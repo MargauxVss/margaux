@@ -1,69 +1,25 @@
 
 
-          <div id="header">
-  			<div id="title">
-  				<h1> Pitted Skin </h1>
-  			</div>
 
+          <header class="menu" style="text-align: center;">
+              <h1>Pitted Skin</h1>
 
-  			<div id="menu">
-
-  			<ul>
-
-  				<li>
-  					<a href="../Page/Accueil.html">Accueil</a>
-  				</li>
-
-  				<li>
-  					<a href="../Page/bijouxpiercings.html">Bijoux</a>
-  					<ul>
-  						<li><a href="bijouxpiercings.html">piercings</a></li>
-  						<li><a href="fauxpiercings.html">faux piercings</a></li>
-  						<li><a href="ecarteurs.html">ecarteurs</a></li>
-  						<li><a href="autresbijoux.html">autres</a></li>
-  					</ul>
-  				</li>
-
-  				<li>
-  					<a href="../Page/tarifs.html">Tarifs</a>
-  					<ul>
-  						<li><a href="tarifs.html">piercings</a></li>
-  						<li><a href="tarifstatoo.html">tatouages</a></li>
-  					</ul>
-  				</li>
-
-  				<li>
-  					<a href="../Page/tatoo.html">Tatouages</a>
-  					<ul>
-  						<li><a href="#">Noir et Blanc</a></li>
-  						<li><a href="#">Couleurs</a></li>
-  					</ul>
-  				</li>
-
-  				<li>
-  					<a href="../Page/photo.html">Photos</a>
-  					<ul>
-  						<li><a href="photopiercings.html">Piercings</a></li>
-  						<li><a href="phototatoo.html">Tatouages</a></li>
-  					</ul>
-  				</li>
-
-  				<li>
-  					<a href="#">Contacts</a>
-  					<ul>
-  						<li>
-  							<a href="shop.html">Horaires du shop</a>
-  						</li>
-  						<li>
-  							<a href="quisommesnous.html">Qui sommes nous ?</a>
-  						</li>
-  					</ul>
-  				</li>
-  				</li>
-
-
-  			</ul>
-
-  			</div>
-  		</div>
-  		<hr/>
+              <ul id="menu" style="list-style-type: none;">
+                 <li style="display: inline; padding: 0 0.5em; background: #F8F8FF ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ; color: #000000;">
+                  <a href="index.php" style=" text-decoration: none;">Accueil</a>
+                 </li>
+                  <li style="display: inline; padding: 0 0.5em; background: #F8F8FF ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ; color: #000000;">
+                    <a href="bijoux.php" style=" text-decoration: none;">Bijoux</a>
+                  </li>
+                  <li style="display: inline; padding: 0 0.5em; background: #F8F8FF ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ; color: #000000;">
+                    <a href="piercings.php" style=" text-decoration: none;">Piercings</a>
+                  </li>
+                  <li style="display: inline; padding: 0 0.5em; background: #F8F8FF ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ; color: #000000;">
+                    <a href="tattoos.php" style=" text-decoration: none;">Tatouages</a>
+                  </li>
+                  <li style="display: inline; padding: 0 0.5em; background: #F8F8FF ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ; color: #000000;">
+                    <a href="contacts.php" style=" text-decoration: none;">Contacts</a>
+                  </li>
+              </ul>
+          </header>
+          <hr/>
