@@ -24,17 +24,9 @@
 </head>
 <body>
 
-<<<<<<< HEAD
-			<ul>
-				<li><a href="Page/bijoux.php">Bijoux</a></li>
-				<li><a href="Page/piercing.php">Piercing</a></li>
-				<li><a href="tattoos.php">Tatouages</a></li>
-				<li><a href="Page/tarifs.php">Tarifs</a></li>
-			</ul>
-	</header>
-=======
+
   <?php include('./include/menu.php'); ?>
->>>>>>> 5bb6d1710306e03093236f2dd17f166a25fe3954
+
 
   <?php include('./include/formulaires.php'); ?>
 
@@ -48,7 +40,7 @@
       </h2>
 
       <p>
-        L' équipe de Pited Skin, c'est à dire Kévin, Clélia et Margaux sont installés depuis Septembre 2005 dans l'hyper centre de Bordeaux après avoir acquis deux ans d'expériences auprès de tatoueurs et pierceurs reconnus à Barcelone,
+        L' équipe de Pited Skin, composée de Kévin, Clélia et Margaux, est installée depuis Septembre 2005 dans l'hyper centre de Bordeaux après avoir acquis deux ans d'expériences auprès de tatoueurs et pierceurs reconnus à Barcelone,
         l'équipe a préférée revenir dans sa ville natale pour ouvrir à l' année leur studio de tatouage et de piercing.
       </p>
   </div>
