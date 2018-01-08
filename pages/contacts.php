@@ -27,7 +27,7 @@
 
     <div id="tetes" style="width: 900px; margin-left: auto; margin-right: auto;">
         <img src="../im/pdpclelia.jpg" alt="photo de clélia" style="width:250px; margin-right: 25px; margin-left: 25px;"/>
-        <img src="../im/pdpkevin.jpg" alt="photo de Kévin"style="width:250px; margin-right: 25px"/>
+        <img src="../im/pdpkev.jpg" alt="photo de Kévin"style="width:250px; margin-right: 25px"/>
         <img src="../im/pdpmargaux.jpg" alt="photo de margaux"style="width:250px; margin-right: 25px;"/>
     </div>
 
