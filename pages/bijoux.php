@@ -36,7 +36,7 @@
              <p class="card-text">Cette cloison unique est fait de laiton et orné de petites boules en laiton. <br/>pour le nez percé.<br/> peut être porté sur l'oreille <br/>La barre est de 1 mm. 18 Gauge.<br/>Bague intérieure: 8mm<br/>sans nickel. </p>
            </div>
            <div class="card-footer">
-             <a href="#" class="btn btn-primary">Acheter / 8.90 $</a>
+             <a href="#" class="btn btn-primary">Acheter / 8.90 €</a>
            </div>
          </div>
        </div>
@@ -49,7 +49,7 @@
              <p class="card-text">Métal travaillé <br/> Bronze et Laiton (sans nickel) <br/> Elegant et détendu</p>
            </div>
            <div class="card-footer">
-             <a href="#" class="btn btn-primary">Acheter / 12.90 $</a>
+             <a href="#" class="btn btn-primary">Acheter / 12.90 €</a>
            </div>
          </div>
        </div>
@@ -62,7 +62,7 @@
              <p class="card-text"> Laiton (sans nickel) <br/> Pour un style détendu </p>
            </div>
            <div class="card-footer">
-             <a href="#" class="btn btn-primary">Acheter / 6.00 $</a>
+             <a href="#" class="btn btn-primary">Acheter / 6.00 €</a>
            </div>
          </div>
        </div>
@@ -75,7 +75,7 @@
              <p class="card-text"> Bijoux en métal de grande qualité <br/> Personnalisable à la demande.</p>
            </div>
            <div class="card-footer">
-             <a href="#" class="btn btn-primary">Acheter / 22.90 $</a>
+             <a href="#" class="btn btn-primary">Acheter / 22.90 €</a>
            </div>
          </div>
        </div>
@@ -90,7 +90,7 @@
                <p class="card-text">Laiton (sans nickel) <br/>Boucles d'oreilles pendantes dans un style tribal   </p>
              </div>
              <div class="card-footer">
-               <a href="#" class="btn btn-primary">Acheter / 14.90 $</a>
+               <a href="#" class="btn btn-primary">Acheter / 14.90 €</a>
              </div>
            </div>
          </div>
@@ -103,7 +103,7 @@
                <p class="card-text">Diamètre des flocons : 1,7cm <br/> Acrylique <br/> Entretien : chiffon humide</p>
              </div>
              <div class="card-footer">
-               <a href="#" class="btn btn-primary">Acheter / 12.90 $</a>
+               <a href="#" class="btn btn-primary">Acheter / 12.90 €</a>
              </div>
            </div>
          </div>
@@ -116,7 +116,7 @@
                <p class="card-text">Boucles d'oreilles étranges 6mm  <br/> Acrylique   <br/> Faciles à mettre et à enlever</p>
              </div>
              <div class="card-footer">
-               <a href="#" class="btn btn-primary">Acheter / 4.90 $</a>
+               <a href="#" class="btn btn-primary">Acheter / 4.90 €</a>
              </div>
            </div>
          </div>
@@ -129,7 +129,7 @@
                <p class="card-text">Laiton (sans nickel) <br/> Finition plaquée or 14k <br/> Personnalisales à la demande </p>
              </div>
              <div class="card-footer">
-               <a href="#" class="btn btn-primary">Acheter / 14.90 $</a>
+               <a href="#" class="btn btn-primary">Acheter / 14.90 €</a>
              </div>
            </div>
          </div>
