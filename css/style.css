@@ -1,12 +1,12 @@
 
 body
-	{
-		text-align: center;
-		background: url('../im/fond_tatoo.jpg') no-repeat;
-		background-position: center;
-		background-size: 100%;
-	}
-
+{
+	margin-left: 500px;
+	text-align: center;
+	background: url('../im/fond_tatoo.jpg') no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
 
 
 header
@@ -18,5 +18,20 @@ header
 	border-bottom: 1px solid black;
 	background: black;
 	background-color:#303030;
-
 }
+
+
+#textindex
+	{
+		width: 800px; text-align: center; margin-top: 50px;
+	}
+    
+#textindex h2
+    {
+      text-decoration: underline overline #FF3028;
+    }
+    
+#textindex p
+    {
+      font-size: medium;
+  	}
