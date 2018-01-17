@@ -35,3 +35,16 @@ footer div div p.text
 	padding-left: auto;
 	padding-right: auto;
 }
+
+/*-----------------------------------------------Page piercing -----------------------------------------*/
+
+#forminsc
+{
+	margin-left : 120em;
+}
+
+#formcon
+{
+	margin-left : 133em;
+	margin-top : -21.4em;
+}
