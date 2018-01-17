@@ -8,54 +8,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
   <script type="text/javascript" src="../js/script.js"></script>
-  <style>
-      #tab
-      {
-        width : 500px;
-        font-size: medium;
-        text-align:left;
-        margin-right: auto;
-        margin-left : auto;
-      }
-
-      #tab h2
-      {
-        text-decoration: underline overline #FF3028;
-        padding-top : 50px;
-        text-align :center;
-      }
-
-      table
-      {
-      border: medium solid  #FF3028;
-      border-collapse: collapse;
-      width: 100%;
-      }
-
-      th
-      {
-      font-family: monospace;
-      border: thin solid  #FF3028;
-      width: 50%;
-      padding: 5px;
-      }
-
-      td
-      {
-      font-family: sans-serif;
-      border: thin solid  #FF3028;
-      width: 50%;
-      padding: 5px;
-      text-align: center;
-      background-color: #ffffff;
-      }
-
-      caption
-      {
-      font-family: sans-serif;
-      }
-
-  </style>
+ 
 </head>
 <body>
 
@@ -150,7 +103,7 @@
           </tr>
         </table>
 
-      <p>Tous nos tarifs sont piercing et bijou compris.</p>
+      <p id="tarif">Tous nos tarifs sont piercing et bijou compris.</p>
      </div>
    </div>
 
