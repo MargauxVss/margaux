@@ -9,14 +9,23 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
   <script type="text/javascript" src="../js/script.js"></script>
  
+
+   
+
+    
 </head>
 <body>
 
+  <header>
 
-    <?php include('./include/menu.php'); ?>
+     <?php include('./include/menu.php'); ?>
 
     <?php include('./include/formulaires.php'); ?>
 
+  </header>
+
+
+  <main>
   <div id="tab">
     <h2> Prix </h2>
     <div>
@@ -106,7 +115,7 @@
       <p id="tarif">Tous nos tarifs sont piercing et bijou compris.</p>
      </div>
    </div>
-
+  </main>
   <?php include('./include/footer.php'); ?>
 
 </body>
