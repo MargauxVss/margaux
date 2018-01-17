@@ -17,7 +17,14 @@
   <?php include('./include/formulaires.php'); ?>
 
 
-	<div id="presenter">
+	<div id="pres">
+
+		<header class="jumbotron my-4">
+       <h1 class="display-3">Bienvenue dans mon univers !</h1>
+       <p class="lead"> Les bijoux sont fait mains par vos pierceurs. Ils sont destinés à décorer des piercings déjà cicatrisés et ne peuvent donc pas être utilisés en temps que bijoux de pose.  </p>
+       <a href="#" class="btn btn-primary btn-lg"> Voir les prix > </a>
+     </header>
+
 		<p>Vous pouvez dès à présent voir nos dessins. Nous proposons différents choix, allants du plus sombre au plus coloré, autant pour les hommes que pour les femmes. Nos tatoueurs sont disponibles du Mardi au Vendredi de 9h à 17h</p>
 	</div>
 
