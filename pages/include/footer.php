@@ -1,7 +1,7 @@
 
 
 <hr/>
-<footer>
+<footer >
   <div id=" follow">
     <div class="site">
       <img class="icon" src="../im/fb.png" alt="icone facebook"/>

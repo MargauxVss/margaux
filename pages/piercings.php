@@ -22,6 +22,8 @@
 
     <?php include('./include/formulaires.php'); ?>
 
+
+
   </header>
 
 
@@ -116,6 +118,7 @@
      </div>
    </div>
   </main>
+  
   <?php include('./include/footer.php'); ?>
 
 </body>

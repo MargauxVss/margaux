@@ -31,6 +31,11 @@ footer
   background-color: #7F0509;
 }
 
+#follow
+{
+   background-color:  #7F0509;
+}
+
 footer div div p.text
 {
 	color :  	#000000;
@@ -168,3 +173,11 @@ main
       }
 
 /*----------------------------------------Page acceuil------------------------------*/ 
+
+#imageprin
+{
+  margin-top: 10em;
+  margin-left: 26em;
+  
+
+}
