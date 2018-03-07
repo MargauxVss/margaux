@@ -3,7 +3,7 @@
 <form id="forminsc" action="inscription.php" method="post" style="border: 1px solid black; width: 120px; text-align: center;">
     <h2> Inscription </h2>
     <div>
-        <label style="font-size: small ; font-family: "verdana", sans-serif;">Pseudo :</label>
+        <label style="font-size: small ; font-family: "verdana" ; , sans-serif;">Pseudo :</label>
         <input type="text" name="pseudo" />
     </div>
     <div>
