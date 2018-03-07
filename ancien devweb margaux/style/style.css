@@ -1,32 +1,57 @@
+<<<<<<< HEAD:ancien devweb margaux/style/style.css
 *
 {
 	font-family: 'Lobster', cursive;
  
 }
 body{background:#f1f2f6!important;}
+=======
+
+body
+	{
+		
+		/*background: url(../im/fond_tatoo.jpg);*/
+		background-size: all auto;
+		font-family: "verdana", sans-serif;
+	}
+>>>>>>> parent of f8b58f4... efef"rg'r"gbgrtr"r:style/style.css
 
 
 
 /* -----------------------Footer-------------------------- */
 
+.site
+{
+	margin-left: 80%;
+  float : left;
+  margin-top: 20px;
+}
+
 
 .icon
 {
-  width: 25px;
+
+	width: 25px;
 	height: 25px;
+	float: left ;
 }
 
 footer
 {
   background-color: #7F0509;
+<<<<<<< HEAD:ancien devweb margaux/style/style.css
   margin-top: 50px;
   box-shadow: 0 -5px 50px grey;
   
+=======
+  height: 200px;
+>>>>>>> parent of f8b58f4... efef"rg'r"gbgrtr"r:style/style.css
 }
 
 footer div div p.text
 {
 	color :  	#fff;
+<<<<<<< HEAD:ancien devweb margaux/style/style.css
 }
 
 #bas p
@@ -49,11 +74,16 @@ footer div div p.text
 	padding: 10px 10px 70px 10px;
   border : solid #bebebe 1px;
 
+=======
+	margin-left: 50px;
+>>>>>>> parent of f8b58f4... efef"rg'r"gbgrtr"r:style/style.css
 }
 
 #page img
 {
-	width : 100%;
+	padding-left: auto;
+	padding-right: auto;
+
 }
 
 header 
@@ -68,18 +98,18 @@ header
 #menu 
 {
 	height : 130px;
+<<<<<<< HEAD:ancien devweb margaux/style/style.css
 
+=======
+>>>>>>> parent of f8b58f4... efef"rg'r"gbgrtr"r:style/style.css
 
 
 }
 #menu li
 {
 	font-size : 20px;
-	background-color : #000;
-  margin-left: 10px;
+	background-color : #fff;
 }
-
-
 
 #menu li:hover
 {
@@ -88,8 +118,13 @@ header
 
 #menu li a
 {
+<<<<<<< HEAD:ancien devweb margaux/style/style.css
 
 	color : #fff;
+=======
+	color : inherit ;
+	color : #000;
+>>>>>>> parent of f8b58f4... efef"rg'r"gbgrtr"r:style/style.css
   font-weight: bold ; 
 
 
@@ -102,10 +137,10 @@ header
 
 #logo
 {
-	
-	width : 150px;
-	margin-bottom : 10px;
-  margin-top: 10px;
+	height: 100px;
+	width : 100px;
+	margin-bottom : 30px;
+  margin-top: 30px;
 }
 
 /*-----------------------------------------------Page piercing -----------------------------------------*/
@@ -113,6 +148,7 @@ header
 
 main
 {
+<<<<<<< HEAD:ancien devweb margaux/style/style.css
   background-color:#fff;
   width : 60%;
   margin-left:  auto;
@@ -120,23 +156,24 @@ main
   margin-top : 50px;
   padding: 10px 10px 70px 10px;
   border : solid #bebebe 1px;
+=======
+  background-color:#E4E4E4
+>>>>>>> parent of f8b58f4... efef"rg'r"gbgrtr"r:style/style.css
 ;
 }
 #forminsc
 {
-	position: absolute; 
-  right: 0;
-  top : 0;
+	margin-left : 120em;
+	margin-top : -25em;
   color : #fff;
 
 }
 
 #formcon
 {
-	position: absolute; 
-  right: 150px;
-  top :0;
-    color : #fff;
+	margin-left : 133em;
+	margin-top : -21.4em;
+  color : #fff;
 }
 
  #tab
@@ -193,129 +230,24 @@ main
 
 /*----------------------------------------Page acceuil------------------------------*/ 
 
+#imageprin
+{
+  margin-top: 10em;
+  margin-left: 26em;
+  
 
+}
 
-#textindex
+#textacc
 {
   text-align:  center;
-  padding-top : 70px;
+  font-size: 20px;
 
 }
 
-#textindex p
-{
-	font-size :20px;
-}
-
-#textindex h2
+h2
 {
   text-align:  center;
   font-size: 90px;
 
-
-
 }
-
-/* Slide */ 
-/* Slideshow container */
-.slideshow-container {
-
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-  margin-top: 10px;
-  border: solid 10px #7F0509;
-  height: 450px;
-}
-
-/* Hide the images by default */
-.mySlides {
-    display: none;
-}
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  margin-top: -22px;
-  padding: 16px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  display: inline-block;
-  width: 300px;
-
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor:pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-.image
-{
-        height: 430px;
-        width : 600px;
-
-}
-

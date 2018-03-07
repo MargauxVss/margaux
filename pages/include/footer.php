@@ -1,5 +1,6 @@
 
 
+<hr/>
 <footer>
   <div id=" follow">
     <div class="site">
