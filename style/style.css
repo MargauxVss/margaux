@@ -1,0 +1,194 @@
+
+body
+	{
+		
+		/*background: url(../im/fond_tatoo.jpg);*/
+		background-size: all auto;
+		font-family: "verdana", sans-serif;
+	}
+
+
+
+/* footer */
+
+.site
+{
+	margin-left: 80%;
+  float : left;
+  margin-top: 20px;
+}
+
+
+.icon
+{
+
+	width: 25px;
+	height: 25px;
+	float: left ;
+}
+
+footer
+{
+  background-color: #7F0509;
+  height: 200px;
+}
+
+footer div div p.text
+{
+	color :  	#fff;
+	margin-left: 50px;
+}
+
+#page img
+{
+	padding-left: auto;
+	padding-right: auto;
+
+}
+
+header 
+{
+  background-color: #7F0509 ;
+  height : 250px;
+}
+
+/*-----------------------------------------------Menu---------------------------------------------------*/
+
+
+#menu 
+{
+	height : 130px;
+
+
+}
+#menu li
+{
+	font-size : 20px;
+	background-color : #fff;
+}
+
+#menu li:hover
+{
+	background-color : #000;
+}
+
+#menu li a
+{
+	color : inherit ;
+	color : #000;
+  font-weight: bold ; 
+
+
+}
+
+#menu li a:hover
+{
+	color : #8C060A;
+}
+
+#logo
+{
+	height: 100px;
+	width : 100px;
+	margin-bottom : 30px;
+  margin-top: 30px;
+}
+
+/*-----------------------------------------------Page piercing -----------------------------------------*/
+
+
+main
+{
+  background-color:#E4E4E4
+;
+}
+#forminsc
+{
+	margin-left : 120em;
+	margin-top : -25em;
+  color : #fff;
+
+}
+
+#formcon
+{
+	margin-left : 133em;
+	margin-top : -21.4em;
+  color : #fff;
+}
+
+ #tab
+      {
+        width : 500px;
+        font-size: medium;
+        text-align:left;
+        margin-right: auto;
+        margin-left : auto;
+
+      }
+
+      #tab h2
+      {
+        text-decoration: underline overline #8C060A;
+        padding-top : 50px;
+        text-align :center;
+      }
+
+      table
+      {
+      border: medium solid  #8C060A;
+      border-collapse: collapse;
+      width: 100%;
+      }
+
+      th
+      {
+      font-family: monospace;
+      border: thin solid #8C060A;
+      width: 50%;
+      padding: 5px;
+      }
+
+      td
+      {
+      font-family: sans-serif;
+      border: thin solid #8C060A;
+      width: 50%;
+      padding: 5px;
+      text-align: center;
+      background-color: #ffffff;
+      }
+
+      caption
+      {
+      font-family: sans-serif;
+      }
+
+      #tarif
+      {
+      	text-align : center;
+      }
+
+/*----------------------------------------Page acceuil------------------------------*/ 
+
+#imageprin
+{
+  margin-top: 10em;
+  margin-left: 26em;
+  
+
+}
+
+#textacc
+{
+  text-align:  center;
+  font-size: 20px;
+
+}
+
+h2
+{
+  text-align:  center;
+  font-size: 90px;
+
+}
