@@ -8,11 +8,15 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
   <script type="text/javascript" src="../js/script.js"></script>
+<<<<<<< HEAD
+
+=======
  
 
    
 
     
+>>>>>>> 45271012ea9e8ec0cdc08fb9756dbf444baa0f00
 </head>
 <body>
 
@@ -23,6 +27,17 @@
     <?php include('./include/formulaires.php'); ?>
 
 
+<<<<<<< HEAD
+<?php
+echo('ok');
+  $reponse = $bdd->query('SELECT * FROM `prix');
+
+// On affiche chaque entrée une à une
+while ($donnees = $reponse->fetch())
+{
+ var_dump($donnees);
+} ?>
+=======
 
   </header>
 
@@ -30,6 +45,7 @@
   <main>
 
   
+>>>>>>> 45271012ea9e8ec0cdc08fb9756dbf444baa0f00
   <div id="tab">
     <h2> Prix </h2>
     <div>
