@@ -1,6 +1,5 @@
 
 
-<hr/>
 <footer>
   <div id=" follow">
     <div class="site">
@@ -21,10 +20,4 @@
     </div>
 
   </div>
-
-  <div id="bas">
-      <p> peofij oknjojnk</p>
-      <p>zertyuioojhgfdsdfghjkkiu-redfbngyhi huhb uycrdes(drftgyhujijhgfcdxswe dtfvygbuhij</p>
-  </div>
-
 </footer>
