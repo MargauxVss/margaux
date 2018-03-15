@@ -20,10 +20,8 @@
     </div>
 
   </div>
-
-  <div id="bas">
-      <p> peofij oknjojnk</p>
-      <p>zertyuioojhgfdsdfghjkkiu-redfbngyhi huhb uycrdes(drftgyhujijhgfcdxswe dtfvygbuhij</p>
+  <div id="textebas">
+      <p> azertyu ijnjkol; </p>
+      <p> azertyu fyuio utfg ioihutif ufi voiu u bhu jnionjk </p>
   </div>
-
 </footer>

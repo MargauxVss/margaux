@@ -139,12 +139,14 @@
 
    </div>
    <!-- /.container -->
+   </div>
 
 
 
-
-  <?php include('./include/footer.php'); ?>
-
+       <?php include('./include/footer.php'); ?>
   <script type="text/javascript" src="../script/gulpfile.js"></script>
+
+
+
 </body>
 </html>
