@@ -12,6 +12,14 @@
 
 <body>
 
+<header><
+    <?php include('./include/menu.php'); ?>
+</header>
+
+
+<div id="form">
+
+
 <!-- formulaire d'inscription -->
 <form id="forminsc" action="inscription.php" method="post" style="border: 1px solid black; width: 120px; text-align: center;">
     <h2> Inscription </h2>
@@ -56,8 +64,15 @@
     </div>
 </form>
 
+</div>
+
+<div id="foot">
 
   <?php include('./include/footer.php'); ?>
+
+</div>
+
+
 
 </body>
 

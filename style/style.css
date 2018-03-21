@@ -1,7 +1,10 @@
 * {
     font-family: 'Lobster', cursive;
 }
-body{background:#f1f2f6!important;}
+body {
+    background: #f1f2f6 !important;
+
+}
 
 
 
@@ -105,25 +108,27 @@ main {
 }
 #forminsc {
     position: absolute;
-    right: 0;
-    top : 0;
+    right: 565px;
+    top : 400px;
     color : #fff;
 
 }
 
 #formcon {
     position: absolute;
-    right: 150px;
-    top :0;
+    right: 850px;
+    top :400px;
     color : #fff;
+
+
 }
 
 #tab {
     width : 500px;
     font-size: medium;
     text-align:left;
-    margin-right: auto;
-    margin-left : auto;
+    margin-right: 100px;
+
 
 }
 
@@ -286,4 +291,7 @@ caption {
     width : 600px;
 
 }
+
+
+/*------------------------Login----------------------------*/
 
