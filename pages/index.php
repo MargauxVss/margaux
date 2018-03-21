@@ -27,19 +27,19 @@
                 <!-- Full-width images with number and caption text -->
                     <div class="mySlides fade">
                       <div class="numbertext">1 / 3</div>
-                        <img class="image" src="../im/piercing1.jpg" style="width:100%">
+                        <img class="image" src="../im/tatoo.jpg" style="width:100%">
                       <div class="text"></div>
                     </div>
 
                     <div class="mySlides fade">
                       <div class="numbertext">2 / 3</div>
-                        <img class="image" src="../im/piercing2.png" style="width:100%">
+                        <img class="image" src="../im/affiche_tatoo.png" style="width:100%">
                       <div class="text"></div>
                     </div>
 
                     <div class="mySlides fade">
                       <div class="numbertext">3 / 3</div>
-                        <img class="image" src="../im/tatoo.jpg" style="width:100%">
+                        <img class="image" src="../im/shopp.jpg" style="width:100%">
                       <div class="text"></div>
                     </div>
 
@@ -71,7 +71,7 @@
       </p>
   </div>-->
 </div>
- <?php include('./include/footer.php'); ?>
+  <?php include('./include/footer.php'); ?>
   <script type="text/javascript" src="../js/script.js"></script>
 </body>
 </html>
