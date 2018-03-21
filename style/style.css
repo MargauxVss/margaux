@@ -107,18 +107,16 @@ main {
 ;
 }
 #forminsc {
-    position: absolute;
-    right: 565px;
-    top : 400px;
-    color : #fff;
+    margin-left: 38%;
+    margin-top: 5%;
+    color : #000000;
 
 }
 
 #formcon {
-    position: absolute;
-    right: 850px;
-    top :400px;
-    color : #fff;
+    margin-left: 53%;
+    margin-top: -14%;
+    color : #000000;
 
 
 }
