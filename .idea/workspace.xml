@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1942365-e334-4a84-9380-bb1fcadec018" name="Default" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/contacts.php" afterPath="$PROJECT_DIR$/pages/contacts.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/include/menu.php" afterPath="$PROJECT_DIR$/pages/include/menu.php" />
@@ -10,6 +11,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/login.php" afterPath="$PROJECT_DIR$/pages/login.php" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
       <change beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.css" />
 =======
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/login.php" />
@@ -17,6 +20,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/include/menu.php" afterPath="$PROJECT_DIR$/pages/include/menu.php" />
 >>>>>>> c7fea2edebab6f3c4ae07374b6904cda2d4fd9c5
+<<<<<<< HEAD
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
+=======
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,6 +58,7 @@
         <entry file="file://$PROJECT_DIR$/pages/index.php">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="469">
               <caret line="69" column="99" lean-forward="false" selection-start-line="69" selection-start-column="99" selection-end-line="69" selection-end-column="99" />
               <folding />
@@ -75,9 +82,31 @@
             <state relative-caret-position="230">
               <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
 =======
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
             <state relative-caret-position="-186">
               <caret line="41" column="58" lean-forward="false" selection-start-line="41" selection-start-column="58" selection-end-line="41" selection-end-column="58" />
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/include/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -117,8 +146,14 @@
         <entry file="file://$PROJECT_DIR$/style/style.css">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+            <state relative-caret-position="567">
+              <caret line="195" column="30" lean-forward="false" selection-start-line="195" selection-start-column="30" selection-end-line="195" selection-end-column="30" />
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
+=======
             <state relative-caret-position="567">
               <caret line="195" column="30" lean-forward="false" selection-start-line="195" selection-start-column="30" selection-end-line="195" selection-end-column="30" />
 =======
@@ -145,6 +180,10 @@
               <caret line="179" column="14" lean-forward="false" selection-start-line="179" selection-start-column="14" selection-end-line="179" selection-end-column="14" />
               <caret line="283" column="7" lean-forward="false" selection-start-line="283" selection-start-column="7" selection-end-line="283" selection-end-column="7" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c7fea2edebab6f3c4ae07374b6904cda2d4fd9c5
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
 =======
 >>>>>>> c7fea2edebab6f3c4ae07374b6904cda2d4fd9c5
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
@@ -218,6 +257,9 @@
         <option value="$PROJECT_DIR$/pages/tattoos.php" />
         <option value="$PROJECT_DIR$/pages/include/menu.php" />
 >>>>>>> c7fea2edebab6f3c4ae07374b6904cda2d4fd9c5
+<<<<<<< HEAD
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
+=======
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
       </list>
     </option>
@@ -338,9 +380,12 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="17810000" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
     <option name="totallyTimeSpent" value="17494000" />
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
   </component>
@@ -361,6 +406,9 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09012876" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
 >>>>>>> c7fea2edebab6f3c4ae07374b6904cda2d4fd9c5
+<<<<<<< HEAD
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
+=======
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -383,11 +431,15 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0890625" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
 =======
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
@@ -579,6 +631,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pages/include/menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -587,6 +640,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
 =======
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
     <entry file="file://$PROJECT_DIR$/pages/include/formulaires.html" />
@@ -674,6 +729,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pages/bijoux.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3243">
@@ -684,6 +740,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/include/formulaires.php">
 =======
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
     <entry file="file://$PROJECT_DIR$/pages/contacts.php">
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
       <provider selected="true" editor-type-id="text-editor">
@@ -696,9 +754,12 @@
     <entry file="file://$PROJECT_DIR$/pages/include/footer.php">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="506">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
 =======
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
         <state relative-caret-position="3243">
           <caret line="141" column="9" lean-forward="false" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
@@ -706,6 +767,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -739,10 +801,15 @@
           <caret line="179" column="14" lean-forward="false" selection-start-line="179" selection-start-column="14" selection-end-line="179" selection-end-column="14" />
           <caret line="283" column="7" lean-forward="false" selection-start-line="283" selection-start-column="7" selection-end-line="283" selection-end-column="7" />
 =======
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
     <entry file="file://$PROJECT_DIR$/pages/include/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+<<<<<<< HEAD
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
+=======
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
           <folding />
         </state>
@@ -751,10 +818,13 @@
     <entry file="file://$PROJECT_DIR$/pages/contacts.php">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="644">
           <caret line="28" column="122" lean-forward="false" selection-start-line="28" selection-start-column="122" selection-end-line="28" selection-end-column="122" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
 =======
@@ -780,6 +850,9 @@
           <caret line="179" column="14" lean-forward="false" selection-start-line="179" selection-start-column="14" selection-end-line="179" selection-end-column="14" />
           <caret line="283" column="7" lean-forward="false" selection-start-line="283" selection-start-column="7" selection-end-line="283" selection-end-column="7" />
 >>>>>>> c7fea2edebab6f3c4ae07374b6904cda2d4fd9c5
+<<<<<<< HEAD
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
+=======
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
           <folding />
         </state>
@@ -804,10 +877,13 @@
     <entry file="file://$PROJECT_DIR$/pages/index.php">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="469">
           <caret line="69" column="99" lean-forward="false" selection-start-line="69" selection-start-column="99" selection-end-line="69" selection-end-column="99" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
         <state relative-caret-position="567">
           <caret line="195" column="30" lean-forward="false" selection-start-line="195" selection-start-column="30" selection-end-line="195" selection-end-column="30" />
 =======
@@ -838,6 +914,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
           <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+<<<<<<< HEAD
+>>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
+=======
 >>>>>>> f888eaf20afd5e274833852964f7402bfc13cc4b
           <folding />
         </state>
