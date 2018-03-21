@@ -66,8 +66,8 @@
       </h2>
 
       <p id="textacc">
-        L' équipe de Pited Skin, composée de Kévin, Clélia et Margaux, est installée depuis Septembre 2005 dans l'hyper centre de Bordeaux après avoir acquis deux ans d'expériences auprès de tatoueurs et pierceurs reconnus à Barcelone,
-        l'équipe a préférée revenir dans sa ville natale pour ouvrir à l' année leur studio de tatouage et de piercing.
+        Le duo de Pited Skin, composée de Clélia et Margaux, est installée depuis Septembre 2005 dans l'hyper centre de Bordeaux après avoir acquis deux ans d'expériences auprès de pierceurs reconnus à Barcelone,
+        les filles ont préférées revenir dans leur ville natale pour ouvrir à l' année leur studio de piercing.
       </p>
   </div>-->
 </div>
