@@ -14,7 +14,7 @@ body{background:#f1f2f6!important;}
 }
 
 footer {
-    background-color: #7F0509;
+    background-color: #444444;
     margin-top: 50px;
     box-shadow: 0 -5px 50px grey;
 }
@@ -46,7 +46,7 @@ footer div div p.text {
 }
 
 header {
-    background-color: #7F0509 ;
+    background-color: #444444 ;
     height : 250px;
 }
 
@@ -193,7 +193,7 @@ caption {
     position: relative;
     margin: auto;
     margin-top: 10px;
-    border: solid 10px #7F0509;
+    border: solid 10px #444444;
     height: 450px;
 }
 
