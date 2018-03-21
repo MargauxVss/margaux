@@ -25,7 +25,7 @@
                   </li>
 
                   <li style="display: inline; padding: 0 0.5em; background: #000 ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ;">
-                  <a href="login.php" style=" text-decoration: none;"> Page de connexion / inscription </a>
+                  <a href="login.php" style=" text-decoration: none;"> Connexion / Inscription </a>
                   </li>
 
               </ul>
