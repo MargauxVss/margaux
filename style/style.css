@@ -106,20 +106,33 @@ main {
     border : solid #bebebe 1px;
 ;
 }
-#forminsc {
-    margin-left: 38%;
-    margin-top: 5%;
-    color : #000000;
 
+#form{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 3%;
+    width: 100%;
+
+}
+#forminsc {
+    border: 1px solid black;
+    height: 200px;
+    width: 400px;
+    text-align: center;
 }
 
 #formcon {
-    margin-left: 53%;
-    margin-top: -14%;
-    color : #000000;
+  border: 1px solid black;
+    height: 150px;
+    width: 400px;
+    text-align: center;
 
 
-}
+}*/
 
 #tab {
     width : 500px;
