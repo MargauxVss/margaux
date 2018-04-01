@@ -28,26 +28,26 @@
      <div class="row text-center">
 
          <?php include("./include/db.php");
-         $req = $bdd->prepare('SELECT * FROM products');
-         $req->execute();
-         $result = $req->fetchAll();
-         foreach ($result as $r) {
+         $req1 = $bdd->prepare('SELECT * FROM products');
+         $req1->execute();
+         $result1 = $req1->fetchAll();
+         foreach ($result1 as $r1) {
          ?>
          <!-- Page Features -->
          <div class="row text-center">
              <div class="col-lg-3 col-md-6 mb-4">
                  <div class="card">
-                     <img class="card-img-top" src="<?php echo $r['imagesrc']?>" alt="<?php echo $r['alt']?>">
+                     <img class="card-img-top" src="<?php echo $r1['imagesrc']?>" alt="<?php echo $r1['alt']?>"/>
                      <div class="card-body">
-                         <h4 class="card-title"> <?php echo $r['name']?></h4>
-                         <p class="card-text"><?php echo $r['description']?> </p>
+                         <h4 class="card-title"> <?php echo $r1['name']?></h4>
+                         <p class="card-text"> <?php echo $r1['description']?> </p>
                      </div>
                      <div class="card-footer">
                          <a href="#" class="btn btn-primary">Acheter / <?php echo $r['prix']?> € </a>
                      </div>
                  </div>
              </div>
-
+         </div>
        <!-- <div class="col-lg-3 col-md-6 mb-4">
          <div class="card">
            <img class="card-img-top" src="../im/im1.JPEG" alt="Septum - anneau en laiton">
@@ -151,8 +151,8 @@
              <div class="card-footer">
                <a href="#" class="btn btn-primary">Acheter / 14.90 €</a>
              </div>
-           </div>
-         </div>-->
+           </div>-->
+
 
      </div>
      <!-- /.row -->
