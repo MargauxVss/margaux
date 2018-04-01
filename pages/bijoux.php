@@ -27,7 +27,28 @@
      <!-- Page Features -->
      <div class="row text-center">
 
-       <div class="col-lg-3 col-md-6 mb-4">
+         <?php include("./include/db.php");
+         $req = $bdd->prepare('SELECT * FROM products');
+         $req->execute();
+         $result = $req->fetchAll();
+         foreach ($result as $r) {
+         ?>
+         <!-- Page Features -->
+         <div class="row text-center">
+             <div class="col-lg-3 col-md-6 mb-4">
+                 <div class="card">
+                     <img class="card-img-top" src="<?php echo $r['imagesrc']?>" alt="<?php echo $r['alt']?>">
+                     <div class="card-body">
+                         <h4 class="card-title"> <?php echo $r['name']?></h4>
+                         <p class="card-text"><?php echo $r['description']?> </p>
+                     </div>
+                     <div class="card-footer">
+                         <a href="#" class="btn btn-primary">Acheter / <?php echo $r['prix']?> € </a>
+                     </div>
+                 </div>
+             </div>
+
+       <!-- <div class="col-lg-3 col-md-6 mb-4">
          <div class="card">
            <img class="card-img-top" src="../im/im1.JPEG" alt="Septum - anneau en laiton">
            <div class="card-body">
@@ -122,16 +143,16 @@
 
          <div class="col-lg-3 col-md-6 mb-4">
            <div class="card">
-             <img class="card-img-top" src="../im/im7.jpg" alt="Boucles d'oreilles géométrique">
+             <img class="card-img-top" src="../im/im7.jpg" alt="Boucles d'oreilles géométriques">
              <div class="card-body">
-               <h4 class="card-title">Boucles d'oreilles géométrique</h4>
-               <p class="card-text">Laiton (sans nickel) <br/> Finition plaquée or 14k <br/> Personnalisales à la demande </p>
+               <h4 class="card-title">Boucles d'oreilles géométriques</h4>
+               <p class="card-text">Laiton (sans nickel) <br/> Finition plaquée or 14k <br/> Personnalisables à la demande </p>
              </div>
              <div class="card-footer">
                <a href="#" class="btn btn-primary">Acheter / 14.90 €</a>
              </div>
            </div>
-         </div>
+         </div>-->
 
      </div>
      <!-- /.row -->
