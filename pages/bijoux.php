@@ -48,6 +48,11 @@
                  </div>
              </div>
          </div>
+             <?php
+
+         }
+
+         ?>
        <!-- <div class="col-lg-3 col-md-6 mb-4">
          <div class="card">
            <img class="card-img-top" src="../im/im1.JPEG" alt="Septum - anneau en laiton">
