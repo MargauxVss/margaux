@@ -1,7 +1,7 @@
 
 
 <footer>
-  <div id=" follow">
+  <div id="follow">
     <div class="site">
       <img class="icon" src="../im/fb.png" alt="icone facebook"/>   
       <p class="text"> Notre Facebook </p>

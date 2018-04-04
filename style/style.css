@@ -18,6 +18,21 @@ body {
 
 }
 
+#follow {
+    margin : 0 auto;
+    width: 300px;
+
+
+  }
+
+.site{
+    text-align: center;
+    display : flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
 footer {
     background-color: #444444;
     margin-top: 50px;
@@ -146,7 +161,7 @@ main {
     width : 500px;
     font-size: medium;
     text-align:left;
-    margin-right: 100px;
+    margin : 0 auto;
 
 
 }
@@ -258,7 +273,7 @@ caption {
     font-size: 15px;
     padding: 8px 12px;
     display: inline-block;
-    width: 300px;
+
 
 }
 
