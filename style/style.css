@@ -360,3 +360,8 @@ caption {
     justify-content: space-between;
 
 }
+
+/*--------------Mentions-------------*/
+#ment{
+    display: inline-block;
+}

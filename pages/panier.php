@@ -49,7 +49,7 @@
 
             <li class="list-group-item">
                 <span><?php echo $article['name'] ?></span>
-                
+
                 <button type="button" id="btn" class="btn btn-dark">
                     Supprimer
                 </button>
