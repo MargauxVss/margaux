@@ -22,7 +22,7 @@
   </div>
   <div id="textebas">
         <p>
-            Copyright - pitedskin.fr - 45 bonjour 33200 Bordeaux | Gironde | Aquitaine | France - 06.33.00.75.00 - Tous droits réservés. <a href="./include/mentions.php"> Mentions légales. </a>
+            Copyright - pitedskin.fr - 45 bonjour 33200 Bordeaux | Gironde | Aquitaine | France - 06.33.00.75.00 - Tous droits réservés. <a href="./mentions.php"> Mentions légales. </a>
         </p>
   </div>
 </footer>
