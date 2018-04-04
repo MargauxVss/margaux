@@ -13,6 +13,8 @@ if (isset($_POST['envoyer'])) {
         exit;
     }
 }
+header('Location:../login.php?message=1');
+exit;
 
 ?>
 

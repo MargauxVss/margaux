@@ -44,7 +44,7 @@
                          <p class="card-text"> <?php echo $r1['description']?> </p>
                      </div>
                      <div class="card-footer">
-                         <a href="#" class="btn btn-primary">Acheter / <?php echo $r1['prix']?> € </a>
+                         <a  href="./include/addpanier.php?id_article=<?php echo $r1["id"] ?>" class="btn btn-primary">Acheter / <?php echo $r1['prix']?> € </a>
                      </div>
                  </div>
              </div>

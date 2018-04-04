@@ -50,6 +50,8 @@
 
     <br/>
 
+
+
     <!-- formulaire de connection -->
     <form id="formcon" action="./include/connection.php" method="post" style="border: 1px solid black; height: 150px; width: 400px; text-align: center;">
         <h2> Connexion </h2>
@@ -61,6 +63,21 @@
             <label style="font-size: small ; font-family: "verdana", sans-serif;">Password :</label>
             <input type="password" name="password" placeholder="*********"/>
         </div>
+
+        <?php if (isset($_GET["message"])) {
+            if ( $_GET["message"] == '1') {
+                ?>
+                <div class="alert alert-danger" role="alert">
+                    Mot de passe ou identifiant incorrect !
+                </div>
+
+                <?php
+
+            }
+        }
+
+        ?>
+
         <br/>
         <div>
             <input type="submit" name="envoyer" value="Se connecter"/>
