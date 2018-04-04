@@ -18,7 +18,7 @@
 
      <?php include('./include/menu.php'); ?>
 
-    <?php include('./include/formulaires.php'); ?>
+
 
 
 
