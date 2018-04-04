@@ -49,10 +49,16 @@
 
             <li class="list-group-item">
                 <span><?php echo $article['name'] ?></span>
+            <?php
+                $req= $bdd->prepare("DELETE = FROM products WHERE id= ".$article['id']);
 
-                <button type="button" id="btn" class="btn btn-dark">
-                    Supprimer
-                </button>
+            ?>
+                <form methode="post" action="">
+
+                    <input type="submit">
+
+
+                </form>
             </li>
 
 
