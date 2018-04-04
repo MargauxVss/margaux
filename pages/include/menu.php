@@ -23,10 +23,22 @@
                   <li style="display: inline; padding: 0 0.5em; background: #000 ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ;">
                     <a href="contacts.php" style=" text-decoration: none;">Contacts</a>
                   </li>
-
-                  <li style="display: inline; padding: 0 0.5em; background: #000 ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ;">
+                    <?php
+                    if(isset($_SESSION['user_id'])){
+                        ?>
+                        <li style="display: inline; padding: 0 0.5em; background: #000 ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ;">
+                          <a href="logout.php" style=" text-decoration: none;"> Déconnexion </a>
+                          </li>
+                        <?php
+                    }
+                    else{
+                        ?>
+                   <li style="display: inline; padding: 0 0.5em; background: #000 ; border: 1px solid #000000; font: 1em "Trebuchet MS",Arial,sans-serif ;">
                   <a href="login.php" style=" text-decoration: none;"> Connexion / Inscription </a>
                   </li>
+                  <?php
+                    }
+                    ?>
 
               </ul>
 
