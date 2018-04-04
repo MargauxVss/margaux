@@ -11,9 +11,11 @@ body {
 /* -----------------------Footer-------------------------- */
 
 
+
 .icon {
     width: 25px;
     height: 25px;
+
 }
 
 footer {
@@ -23,6 +25,12 @@ footer {
 }
 
 footer div div p.text {
+    color : #fff;
+}
+
+#a {
+
+    font-size : 10px;
     color : #fff;
 }
 
@@ -179,7 +187,7 @@ caption {
     text-align : center;
 }
 
-/*----------------------------------------Page acceuil------------------------------*/
+/*----------------------------------------Page accueil------------------------------*/
 
 
 

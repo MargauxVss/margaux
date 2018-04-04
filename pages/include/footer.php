@@ -3,7 +3,7 @@
 <footer>
   <div id=" follow">
     <div class="site">
-      <img class="icon" src="../im/fb.png" alt="icone facebook"/>
+      <img class="icon" src="../im/fb.png" alt="icone facebook"/>   
       <p class="text"> Notre Facebook </p>
     </div>
     <div class="site">
@@ -21,7 +21,7 @@
 
   </div>
   <div id="textebas">
-      <p> azertyu ijnjkol; </p>
+      <a id="a" href="#">azertyu ijnjkol</a>
       <p> azertyu fyuio utfg ioihutif ufi voiu u bhu jnionjk </p>
   </div>
 </footer>

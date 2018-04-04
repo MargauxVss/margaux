@@ -39,3 +39,14 @@ function showSlides() {
     slides[slideIndex-1].style.display = "block";
     setTimeout(showSlides, 2000); 
 } 
+
+
+
+
+function formulaire()  {
+
+    var handleclick = false;
+    if (handleclick == false) {
+        $('#forminsc').css('display')
+    }
+}
