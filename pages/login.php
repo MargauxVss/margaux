@@ -23,7 +23,7 @@
 
 
     <!-- formulaire d'inscription -->
-    <form id="forminsc" action="inscription.php" method="post"  >
+    <form id="forminsc" action="./include/inscription.php" method="post"  >
         <h2> Inscription </h2>
         <div>
             <label style="font-size: small ; font-family: "verdana" ; , sans-serif;">Pseudo :</label>
@@ -39,7 +39,7 @@
         </div>
         <div>
             <label style="font-size: small ; font-family: "verdana", sans-serif;">Confirm Password :</label>
-            <input type="password" name="password" placeholder="*********" maxlength="12" size />
+            <input type="password" name="confirmPassword" placeholder="*********" maxlength="12" size />
         </div>
         <br/>
         <div>
@@ -50,15 +50,11 @@
     <br/>
 
     <!-- formulaire de connection -->
-    <form id="formcon" action="connection.php" method="post" style="border: 1px solid black; height: 150px; width: 400px; text-align: center;">
+    <form id="formcon" action="./include/connection.php" method="post" style="border: 1px solid black; height: 150px; width: 400px; text-align: center;">
         <h2> Connexion </h2>
         <div>
             <label style="font-size: small ; font-family: "verdana", sans-serif;">Pseudo :</label>
             <input type="text" name="pseudo" placeholder="ex : Théo" />
-        </div>
-        <div>
-            <label style="font-size: small ; font-family: "verdana", sans-serif;">Mail :</label>
-            <input type="email" name="mail" placeholder="ex : Théo.Jean@ynov.com" />
         </div>
         <div>
             <label style="font-size: small ; font-family: "verdana", sans-serif;">Password :</label>

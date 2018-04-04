@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-<<<<<<< HEAD
+
     <meta charset="UTF-8"/>
     <title>Accueil</title>
     <link rel="stylesheet" href="../style/reset.css">
@@ -11,15 +11,6 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
     <script type="text/javascript" href="../js/script.js"></script>
 
-
-=======
-  <meta charset="UTF-8"/>
-  <title>Accueil</title> 
-  <link rel="stylesheet" href="../style/reset.css">
-  <link rel="stylesheet" href="../style/style.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  
->>>>>>> 18b5adc196a8b1413458897e449b390e3364116a
 </head>
 <body>
 
