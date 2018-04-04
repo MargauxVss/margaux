@@ -7,7 +7,7 @@
  */
 
 try {
-    $bdd = new PDO('mysql:host=localhost; dbname=labo_dev; charset=utf8', 'root', '');
+    $bdd = new PDO('mysql:host=localhost; dbname=labo_dev; charset=utf8', 'root', 'root');
 } catch (Exception $e) {
     die('Erreur: '.$e->getMessage());
 }

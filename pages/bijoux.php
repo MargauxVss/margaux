@@ -37,16 +37,19 @@
          ?>
          <!-- Page Features -->
              <div class="col-lg-3 col-md-6 mb-4">
-                 <div class="card">
-                     <img class="card-img-top" src="<?php echo $r1['imagesrc']?>" alt="<?php echo $r1['alt']?>"/>
-                     <div class="card-body">
-                         <h4 class="card-title"> <?php echo $r1['name']?></h4>
-                         <p class="card-text"> <?php echo $r1['description']?> </p>
+                 <a href="./product.php?id=<?php echo $r1["id"]?>" >
+                     <div class="card">
+                         <img class="card-img-top" src="<?php echo $r1['imagesrc']?>" alt="<?php echo $r1['alt']?>"/>
+                         <div class="card-body">
+                             <h4 class="card-title"> <?php echo $r1['name']?></h4>
+                             <p class="card-text"> <?php echo $r1['description']?> </p>
+                         </div>
+
+                         <div class="card-footer">
+                             <a  href="./include/addpanier.php?id_article=<?php echo $r1["id"] ?>" class="btn btn-primary">Acheter / <?php echo $r1['prix']?> € </a>
+                         </div>
                      </div>
-                     <div class="card-footer">
-                         <a  href="./include/addpanier.php?id_article=<?php echo $r1["id"] ?>" class="btn btn-primary">Acheter / <?php echo $r1['prix']?> € </a>
-                     </div>
-                 </div>
+                 </a>
              </div>
              <?php
 
