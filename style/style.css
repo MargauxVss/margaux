@@ -365,3 +365,7 @@ caption {
 #ment{
     display: inline-block;
 }
+
+#ment p {
+    font-size: medium;
+}
