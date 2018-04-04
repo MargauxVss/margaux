@@ -8,5 +8,7 @@ if($_POST['confirmPassword'] == $_POST['password']){
     }
 }
 
+header('Location:../index.php');
+exit;
 
 ?>
