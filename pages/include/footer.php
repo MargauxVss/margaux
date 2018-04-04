@@ -21,7 +21,7 @@
 
   </div>
   <div id="textebas">
-      <a id="a" href="#">azertyu ijnjkol</a>
+      <button onclick="mentionslegales()">MENTIONS LEGALES</button>
       <p> azertyu fyuio utfg ioihutif ufi voiu u bhu jnionjk </p>
   </div>
 </footer>

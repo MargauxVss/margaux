@@ -50,3 +50,17 @@ function formulaire()  {
         $('#forminsc').css('display')
     }
 }
+
+function mentionslegales() {
+   alert("Mentions légales" +
+       "Produit :  Editeur du site : PITED SKIN" +
+       " Directeur de la publication : PITED SKIN" +
+       " Responsable de la rédaction : PITED SKIN" +
+       " Hebergeur : PITED SKIN - 123, Avenue Louis Barthou – 33200 CAUDERAN " +
+       " Webmaster :  PITED SKIN" +
+       "Nom de la société : PITED SKIN " +
+       "Numéro de Siret : 00000000000000 " +
+       "Nom du responsable : Clélia BURLE - Margaux VAISSIE  " +
+       "Adresse de la société : 33200 CAUDERAN " +
+       "Adresse du siege social de la société :  33200 CAUDERAN");
+}
