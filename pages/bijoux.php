@@ -35,7 +35,6 @@
          foreach ($result1 as $r1) {
          ?>
          <!-- Page Features -->
-         <div class="row text-center">
              <div class="col-lg-3 col-md-6 mb-4">
                  <div class="card">
                      <img class="card-img-top" src="<?php echo $r1['imagesrc']?>" alt="<?php echo $r1['alt']?>"/>
@@ -48,7 +47,6 @@
                      </div>
                  </div>
              </div>
-         </div>
              <?php
 
          }
