@@ -11,10 +11,6 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
     <script type="text/javascript" href="../js/script.js"></script>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 455c0ffea1da3b5428e9f0555db29cd1df6335a3
 </head>
 <body>
 
@@ -74,7 +70,7 @@
             Le duo de Pited Skin, composée de Clélia et Margaux, est installée depuis Septembre 2005 dans l'hyper centre de Bordeaux après avoir acquis deux ans d'expériences auprès de pierceurs reconnus à Barcelone,
             les filles ont préférées revenir dans leur ville natale pour ouvrir à l' année leur studio de piercing.
         </p>
-    </div>-->
+    </div>
 </div>
 <?php include('./include/footer.php'); ?>
 <script type="text/javascript" src="../js/script.js"></script>
