@@ -11,6 +11,10 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
     <script type="text/javascript" href="../js/script.js"></script>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 455c0ffea1da3b5428e9f0555db29cd1df6335a3
 </head>
 <body>
 
