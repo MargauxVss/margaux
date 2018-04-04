@@ -21,7 +21,9 @@
 
   </div>
   <div id="textebas">
-      <button onclick="connect()">MENTIONS LEGALES</button>
+        <p>
+            Copyright - pitedskin.fr - 45 bonjour 33200 Bordeaux | Gironde | Aquitaine | France - 06.33.00.75.00 - Tous droits réservés. <a href="./include/mentions.php"> Mentions légales. </a>
+        </p>
   </div>
 </footer>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

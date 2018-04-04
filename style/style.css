@@ -55,6 +55,19 @@ footer div div p.text {
     color : #fff;
 }
 
+
+#mentions {
+    background-color: white;
+    width: 500px;
+    height: 600px;
+    position: fixed;
+    top: calc( 50% - 200px );
+    left : calc( 50% - 250px );
+    color: black;
+    display: block;
+
+}
+
 /*--------------------------------*/
 
 #page{

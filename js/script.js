@@ -62,6 +62,8 @@ function connect() {
         var left = (document.body.clientWidth - width) / 2;
         var top = (document.body.clientHeight - height) / 2;
     }
-    window.open('', 'nom_de_ma_popup', 'menubar=no, scrollbars=no, top=' + top + ', left=' + left + ', width=' + width + ', height=' + height + '');
+    window.alert("Mentions légales\n" +
+        "Produit :  Editeur du site : PITED SKIN Directeur de la publication : PITED SKIN Responsable de la rédaction : ETUDE IMMOBILIERE DU PYLA Hebergeur : PITED SKIN - 123, Avenue Louis Barthou – 33200 CAUDERAN  Webmaster :  PITED SKIN\n" +
+        "Nom de la société : PITED SKIN Numéro de Siret : 00000000000000 Nom du responsable :  Adresse de la société : 33200 CAUDERAN Adresse du siege social de la société :  33200 CAUDERAN\n");
 
 }
