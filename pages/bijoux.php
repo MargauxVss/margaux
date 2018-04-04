@@ -23,7 +23,7 @@
      <header class="jumbotron my-4">
        <h1 class="display-3">Bienvenue dans notre shop en ligne !</h1>
        <p class="lead"> Les bijoux sont fait mains par vos pierceurs. Ils sont destinés à décorer des piercings déjà cicatrisés et ne peuvent donc pas être utilisés en temps que bijoux de pose.  </p>
-       <a href="#" class="btn btn-primary btn-lg"> Voir les prix du perçage > </a>
+       <a href="./piercings.php" class="btn btn-primary btn-lg"> Voir les prix du perçage > </a>
      </header>
 
      <!-- Page Features -->
